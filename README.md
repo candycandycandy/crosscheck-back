@@ -1,6 +1,4 @@
 
-maura jebb RULES
-
 POST  'disasters'
 GET   '/disasters/:id'
 PATCH '/disasters/:id'
